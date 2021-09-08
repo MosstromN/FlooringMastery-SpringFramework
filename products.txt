@@ -1,0 +1,7 @@
+Carpet,2.25,2.10
+Laminate,1.75,2.10
+Tile,3.50,4.15
+HardWood(Oak),3.15,4.25
+HardWood(Pine),4.60,4.25
+Hardwood(Maple),5.85,4.25
+Stone,6.10,4.85
